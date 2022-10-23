@@ -4,3 +4,5 @@ _*/
 */res/*.py
 */src/*
 !*/src/*.py
+IsingModel/res*/
+#!*/src/*.pdf
